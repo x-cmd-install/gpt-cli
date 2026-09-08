@@ -1,6 +1,24 @@
----
-owner-repo: kharvd/gpt-cli
-desc:   Command-line interface for ChatGPT, Claude and Bard 
----
-
 # gpt-cli
+
+Command-line interface for ChatGPT, Claude and Bard
+
+- **Upstream**: <https://github.com/kharvd/gpt-cli>
+- **Homepage**: <>
+- **Latest release**: `v0.4.3` (2025-04-15)
+- **Last commit**: 2025-04-21
+- **License**: MIT
+- **Stars**: 722 · **Forks**: 81 · **Open issues**: 59 · **Contributors**: 17
+
+## Installation
+
+```sh
+x install gpt-cli
+```
+
+See <https://x-cmd.com/install/gpt-cli> for details.
+
+## Data
+
+This mirror is auto-maintained by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action). Latest card snapshot: `data/card/260908.yml`. Merged card+release view: `data/latest.report.yml`.
+
+_Last regenerated: 2026-09-08T11:29:32Z._
