@@ -108,4 +108,3 @@ total:
 ---
 
 ---
-{"id":212488225,"author":{"login":"kharvd","id":466920,"node_id":"MDQ6VXNlcjQ2NjkyMA==","gravatar_id":"","type":"User","user_view_type":"public","site_admin":false},"node_id":"RE_kwDOJIbXl84MqlAh","tag_name":"v0.4.3","target_commitish":"main","name":"v0.4.3","draft":false,"immutable":false,"prerelease":false,"created_at":"2025-04-15T12:50:55Z","updated_at":"2025-04-15T12:51:45Z","published_at":"2025-04-15T12:51:45Z","assets":[],"body":"## What's Changed\r\n* upgrade google genai lib by @kharvd in https://github.com/kharvd/gpt-cli/pull/114\r\n\r\n\r\n**Full Changelog**: https://github.com/kharvd/gpt-cli/compare/v0.4.2...v0.4.3","mentions_count":1}
